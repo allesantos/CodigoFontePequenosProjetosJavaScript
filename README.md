@@ -38,7 +38,7 @@ Os programas contidos neste repositório realizam tarefas diversas, como:
 - **Soma de números consecutivos até um limite definido**.
   - Este código em JavaScript tem o objetivo de calcular a soma dos números de 1 até 13 utilizando um loop while.
 
-Cada programa está em um arquivo separado e pode ser executado individualmente, mas será necessário criar um arquivo HTML e inserir o link do arquivo JS que desejar.
+Cada programa está em um arquivo separado e pode ser executado individualmente, mas será necessário criar um arquivo HTML e inserir o link do arquivo JS que desejar, com excessão do arquivo faturamentoMensal.js que está na pasta faturamentoMensal.
 
 ---
 
