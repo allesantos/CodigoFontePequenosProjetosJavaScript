@@ -10,7 +10,6 @@ Este repositório contém uma coleção de pequenos programas desenvolvidos em *
 - [🛠 Tecnologias](#-tecnologias)
 - [✅ Pré-requisitos](#-pré-requisitos)
 - [💾 Instalação](#-instalação)
-- [▶️ Uso](#-uso)
 - [🤝 Contribuição](#-contribuição)
 - [📄 Licença](#-licença)
 
